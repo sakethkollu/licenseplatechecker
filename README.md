@@ -1,2 +1,2 @@
 # licenseplatechecker
-Check available cs license plates 
+Check available ca license plates 
